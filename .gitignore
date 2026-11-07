@@ -1,0 +1,5 @@
+# Path budget: four generated-directory patterns only. dist/ is delivered.
+**/node_modules/
+**/.vite/
+**/*.tsbuildinfo
+/test/scratch/
